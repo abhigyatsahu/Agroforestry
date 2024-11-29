@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+
+.acc-btn{
+    margin-right: 4rem;
+}
+.navbar-brand{
+    font-family: 'Playfair Display SC', serif;
+}
+.nav-link{
+    font-family: 'Zilla Slab', serif;
+}
+
+/* features */
+.features{
+    height: 36rem;
+    width: auto;
+}
+
+.f-img{
+    height: 30rem;
+    width: 20rem;
+    margin-top: 5rem;
+    margin-left: 15rem;
+    float: left;
+}
+
+.f-text{
+    margin-left: 8rem;
+    margin-top: 5rem;
+    /* background-color: aqua; */
+    height: 10rem;
+    width: 40rem;
+    float: left;
+    font-size: 1.5rem;
+    font-family: 'Quicksand', sans-serif;
+    word-spacing: 1.5rem;
+    text-align: justify;
+}
+.f-head{
+    text-align: center;
+    color: brown ;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 2rem;
+}
+
+/* h2{
+    margin-bottom: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+h2:hover{
+    text-shadow: 4px 3px black;
+} */
+
+
+
+
+/* Importance of forest */
+.m-t{
+    margin-top: 8rem;
+}
+
+.carousel-caption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* footer */
+
+footer{
+    background-color: #008170;
+    height: 15rem;
+    width: auto;
+    color: white;
+}
+
+.foot-head{
+    font-family: 'Playfair Display SC', serif;
+    /* margin-top: 3rem; */
+    /* margin-left: 3rem; */
+    padding-top: 2rem;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5rem;
+
+}
+
+.social{
+    margin-top: 3rem;
+    /* margin-left: 1rem; */
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.social:hover{
+    color:  rgb(171, 199, 225);
+}
+
+.foot-links{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 3rem;
+    word-spacing: 2rem;
+    text-decoration: none;
+    color: white;
+}
+
+.foot-links:hover{
+    color: rgb(171, 199, 225);
+}
+
+.credits{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 0.1rem;
+    background-color:#005B41;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+@media screen and (max-width : 600px){
+
+    .m-t{
+        margin-top: 4rem;
+    }
+
+    .f-img{
+        height: 180px;
+        width: 100px;
+        margin-top: 2rem;
+        margin-left: 3rem;
+        float: left;
+    }
+
+    .features{
+        height: 250px;
+        width: auto;
+    }
+
+    .f-text{
+        margin-top: 0rem;
+        margin-left: 2rem;
+        height: 250px;
+        width: 200px;
+        display: inline;
+        font-size: 0.6rem;
+        font-family: 'Quicksand', sans-serif;
+        word-spacing: 0rem;
+        text-align: justify;
+    }
+
+    .f-head{
+        text-align: center;
+        /* color: brown ; */
+        font-weight: 700;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-bottom: 1rem;
+    }
+
+    .carousel-caption{
+        font-size: xx-small;
+    }
+
+    /* footer */
+
+    footer{
+        /* background-color: #008170; */
+        height: 10rem;
+        width: auto;
+        color: white;
+    }
+
+    .foot-head{
+        /* font-family: 'Playfair Display SC', serif; */
+        /* margin-top: 3rem; */
+        margin-left: 1.5rem;
+        padding-top: 1.5rem;
+        font-size: 1rem;
+
+    }
+
+    .credits{
+        font-size: 0.5rem;
+    }
+
+
+}
+
+@media screen and (max-width : 1025px) and (min-width : 700px){
+
+    .m-t{
+        margin-top: 4rem;
+    }
+
+    .f-img{
+        height: 340px;
+        width: 200px;
+        margin-top: 2rem;
+        margin-left: 5rem;
+        float: left;
+    }
+
+    .features{
+        height: 450px;
+        width: auto;
+    }
+
+    .f-text{
+        margin-top: 0rem;
+        margin-left: 4rem;
+        height: 250px;
+        width: 500px;
+        display: inline;
+        font-size: 1.2rem;
+        font-family: 'Quicksand', sans-serif;
+        word-spacing: 0rem;
+        text-align: justify;
+    }
+
+    .f-head{
+        text-align: center;
+        /* color: brown ; */
+        font-weight: 700;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-bottom: 1.5rem;
+    }
+
+    .carousel-caption{
+        font-size: xx-small;
+    }
+
+    /* footer */
+
+    footer{
+        /* background-color: #008170; */
+        height: 10rem;
+        width: auto;
+        color: white;
+    }
+
+    .foot-head{
+        /* font-family: 'Playfair Display SC', serif; */
+        /* margin-top: 3rem; */
+        margin-left: 1.5rem;
+        padding-top: 1.5rem;
+        font-size: 1rem;
+
+    }
+
+    .credits{
+        font-size: 0.5rem;
+    }
+
+
+}
+
+
+/* disease */
+.disease{
+    width: 100%;
+    height: auto;
+    margin-top: 2px;
+}
+.disease-caption{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
