@@ -83,6 +83,12 @@
         </li>
         <li>Access the app at <code>http://localhost:5000</code> in your browser.</li>
     </ol>
+    <h2>Project Documentation Files</h2>
+        <ul>
+            <li>Thesis File : Major Thesis.pdf</li>
+            <li>Project Presentation File : Major-Project-ppt.pptx</li>
+        </ul>
+    
 
   <h2 id="future-scope">Future Scope</h2>
     <ul>
@@ -99,6 +105,8 @@
         <li><strong>Durgeshnandni (IT)</strong></li>
         <li><strong>Chetan (IT)</strong></li>
     </ul>
+    <p>For more information : Check Team Members.txt</p>
+    
 
   <h2 id="acknowledgments">Acknowledgments</h2>
     <p>This project was guided by <strong>Mr. Prabhas Gupta</strong>, Head of the CSE/IT Department at Chhatrapati Shivaji Institute of Technology. We also thank Kaggle for the datasets and the open-source community for their invaluable resources.</p>
