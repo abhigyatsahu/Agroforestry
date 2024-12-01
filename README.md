@@ -73,7 +73,7 @@
   <h2 id="installation">Installation</h2>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/agroforestry.git</code></pre>
+            <pre><code>https://github.com/abhigyatsahu/Agroforestry.git</code></pre>
         </li>
         <li>Install required Python packages:
             <pre><code>pip install -r requirements.txt</code></pre>
